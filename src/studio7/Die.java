@@ -1,8 +1,10 @@
 package studio7;
 
 public class Die {
+	// class is Die
 	
 	private int n;
+	// instance variable
 
 	public Die(int faces) {
 		n = faces;
